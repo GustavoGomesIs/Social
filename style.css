@@ -181,3 +181,11 @@ a:hover.discord {
 .facebook:hover {
     background-color: #3863b3;
 }
+
+h1.final{
+    color: white;
+    padding: 53px 0px 24px 0px;
+    font-size: 13px;
+    font-weight: 100;
+    text-align: center;
+}
