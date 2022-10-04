@@ -75,13 +75,6 @@ a:hover.email {
     text-decoration: none;
 }
 
-.icon_discord {
-    padding: 14px 8px 14px 0px;
-    vertical-align: middle;
-    width: 23px;
-    height: 23px;
-}
-
 a:hover.discord {
     background-color: #5a74d4;
 }
@@ -97,13 +90,6 @@ a:hover.discord {
     text-decoration: none;
     height: 48px;
     width: 280px;
-}
-
-.icon_linkedin {
-    padding: 14px 8px 14px 0px;
-    vertical-align: middle;
-    height: 23px;
-    width: 23px;
 }
 
 .linkedin:hover {
@@ -124,13 +110,6 @@ a:hover.discord {
     width: 280px;
 }
 
-.icon_instagram {
-    padding: 14px 8px 14px 0px;
-    vertical-align: middle;
-    height: 23px;
-    width: 23px;
-}
-
 .instagram:hover {
     background-image: linear-gradient(-145deg, #5d61df, #a83dcf, #e9329d, #ff5b4c, #ffbc4f);
 }
@@ -148,13 +127,23 @@ a:hover.discord {
     width: 280px;
 }
 
-.icon_twitter {
-    padding: 14px 8px 14px 0px;
-    vertical-align: middle;
-    height: 23px;
-    width: 23px;
-}
-
 .twitter:hover {
     background-color: #00b4fc;
+}
+
+.github {
+    background-color: black;
+    box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.137);
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: white;
+    display: inline-block;
+    margin-top: 7px;
+    text-decoration: none;
+    height: 48px;
+    width: 280px;
+}
+
+.github:hover {
+    background-color: rgb(19, 19, 19);
 }
