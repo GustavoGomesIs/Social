@@ -45,7 +45,7 @@ body {
     display: inline-block;
     text-decoration: none;
     height: 48px;
-    width: 300px;
+    width: 280px;
     border-radius: 8px;
     box-sizing: border-box;
     box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.137);
@@ -66,7 +66,7 @@ a:hover.email {
     color: white;
     background-color: #5865F2;
     height: 48px;
-    width: 300px;
+    width: 280px;
     margin-top: 7px;
     border-radius: 8px;
     box-sizing: border-box;
@@ -96,14 +96,40 @@ a:hover.discord {
     margin-top: 7px;
     text-decoration: none;
     height: 48px;
-    width: 300px;
+    width: 280px;
 }
 
 .icon_linkedin {
-    color: white;
     padding: 14px 8px 14px 0px;
     vertical-align: middle;
     height: 23px;
     width: 23px;
 }
 
+.linkedin:hover {
+    background-color: rgb(0, 108, 196);
+}
+
+.twitter {
+    background-color: #00A2E4;
+    box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.137);
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: white;
+    display: inline-block;
+    margin-top: 7px;
+    text-decoration: none;
+    height: 48px;
+    width: 280px;
+}
+
+.icon_twitter {
+    padding: 14px 8px 14px 0px;
+    vertical-align: middle;
+    height: 23px;
+    width: 23px;
+}
+
+.twitter:hover {
+    background-color: #00b4fc;
+}
