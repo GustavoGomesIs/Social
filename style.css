@@ -110,6 +110,31 @@ a:hover.discord {
     background-color: rgb(0, 108, 196);
 }
 
+.instagram {
+    background-image: linear-gradient(-145deg, #5458CB, #9936BC, #D22E8E, #ED594B, #FEBF59);
+    background-attachment: unset;
+    box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.137);
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: white;
+    display: inline-block;
+    margin-top: 7px;
+    text-decoration: none;
+    height: 48px;
+    width: 280px;
+}
+
+.icon_instagram {
+    padding: 14px 8px 14px 0px;
+    vertical-align: middle;
+    height: 23px;
+    width: 23px;
+}
+
+.instagram:hover {
+    background-image: linear-gradient(-145deg, #5d61df, #a83dcf, #e9329d, #ff5b4c, #ffbc4f);
+}
+
 .twitter {
     background-color: #00A2E4;
     box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.137);
